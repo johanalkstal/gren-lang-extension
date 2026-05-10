@@ -2,7 +2,7 @@ id = "gren"
 name = "Gren"
 version = "0.2.0"
 schema_version = 1
-authors = ["Johan Alkstål <github@johanalkstal.com>"]
+authors = ["Johan Alkstål <code@johanalkstal.se>"]
 description = "Syntax highlighting for Gren"
 repository = "https://github.com/johanalkstal/gren-lang-extension"
 
